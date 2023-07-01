@@ -35,7 +35,7 @@ The main implementations is located in the “linux/“ folder. Inside this fold
 2.0.1. Please note, that this file should contain the majority of the defines used in the project.
 \
 	**Here’s an example (continuation of shahed.rst):**
-* PI 3.14   -  The value pf PI
+* PI 3.14   -  The value of PI
 * Linux_INT int64_t   -  Integer data type
 * Linux_STR std::string   - String data type
 
